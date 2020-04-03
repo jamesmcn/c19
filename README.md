@@ -5,11 +5,13 @@ C19 Resources
 * [COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en)
 * [Exponential Spread Visualization](https://91-divoc.com/pages/covid-visualization/)
 * [WorldOMeters - Coronavirus](https://worldometers.info/coronavirus)
+* [Google Community Mobility Reports](https://www.google.com/covid19/mobility/)
 
 **Best Practices**
 * [ICU One Pagers](https://www.onepagericu.com/)
 * [Alibaba COVID-19 Chinese Consultation Center Release](https://covid-19.alibabacloud.com/)
 * [Stanford on emergency mask reuse](https://m.box.com/shared_item/https%3A%2F%2Fstanfordmedicine.app.box.com%2Fv%2Fcovid19-PPE-1-1)
+* [Dr. Peter Tsai on N95 mask reuse](https://utrf.tennessee.edu/information-faqs-performance-protection-sterilization-of-face-mask-materials/)
 
 **Advocacy**
 * [The Hammer and The Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
@@ -18,6 +20,8 @@ C19 Resources
 * VC & Strategy: [Balaji Srinivasan](https://twitter.com/balajis)
 * Logistics: [Ryan Petersen](https://twitter.com/typesfast)
 
+**Mechanism**
+* Blood is attacked before lungs: [COVID-19:Attacksthe1-Beta Chain of Hemoglobin and Captures the Porphyrin to Inhibit Human Heme Metabolism](https://chemrxiv.org/articles/COVID-19_Disease_ORF8_and_Surface_Glycoprotein_Inhibit_Heme_Metabolism_by_Binding_to_Porphyrin/11938173)
 **Other**
 * [Five problems limiting PPE gear](https://twitter.com/typesfast/status/1242490035707895808)
 * [Instant Pot as Autoclave](https://instantpot.com/who-knew-that-instant-pot-can-provides-scientific-grade-sterilization-actually-we-did/) (rice cookers also work)
