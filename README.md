@@ -3,6 +3,7 @@ C19 Resources
 **Data and Dashboards**
 * [COVID-19.direct](https://COVID-19.direct)
 * [COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en)
+* [COVID-19 Projections - a curve fitting model](https://covid19.healthdata.org/)
 * [Exponential Spread Visualization](https://91-divoc.com/pages/covid-visualization/)
 * [WorldOMeters - Coronavirus](https://worldometers.info/coronavirus)
 * [Google Community Mobility Reports](https://www.google.com/covid19/mobility/)
