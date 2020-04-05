@@ -23,6 +23,7 @@ C19 Resources
 
 **Mechanism**
 * Blood is attacked before lungs: [COVID-19:Attacksthe1-Beta Chain of Hemoglobin and Captures the Porphyrin to Inhibit Human Heme Metabolism](https://chemrxiv.org/articles/COVID-19_Disease_ORF8_and_Surface_Glycoprotein_Inhibit_Heme_Metabolism_by_Binding_to_Porphyrin/11938173)
+
 **Other**
 * [Five problems limiting PPE gear](https://twitter.com/typesfast/status/1242490035707895808)
 * [Instant Pot as Autoclave](https://instantpot.com/who-knew-that-instant-pot-can-provides-scientific-grade-sterilization-actually-we-did/) (rice cookers also work)
@@ -31,3 +32,4 @@ C19 Resources
 * [Effectiveness of Social Distancing in Mitigating COVID-19: a modeling analysis](https://www.medrxiv.org/content/10.1101/2020.03.20.20040055v1)
 * [US Health Weather Map](https://healthweather.us/)
 * [Temperature, Humidity and Latitude](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550308)
+* [Taipei Times on Rice Cooker Renewal of Masks](http://www.taipeitimes.com/News/taiwan/archives/2020/02/15/2003731027)
